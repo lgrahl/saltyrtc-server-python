@@ -1,0 +1,2 @@
+mkdocs==0.16.3
+Pygments==2.1.3
