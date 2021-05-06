@@ -19,6 +19,16 @@ Prerequisites
 .. code-block:: bash
 
     sudo apt-get install python3 python3-pip
+    
+    pip install logbook
+    
+
+Mac
+***
+
+.. code-block:: bash
+
+    brew install libsodium
 
 We recommend using `venv`_ to create an isolated Python environment:
 
